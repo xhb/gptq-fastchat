@@ -1,6 +1,0 @@
-url: https://huggingface.co/anon8231489123/vicuna-13b-GPTQ-4bit-128g
-branch: main
-download date: 2023-05-20 20:50:03
-sha256sum:
-    9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347 tokenizer.model
-    ad90d9d0a83482a124f31cc951b2fcf9c55da0e7dfde28ef47e5fe4897cae720 vicuna-13b-4bit-128g.safetensors
